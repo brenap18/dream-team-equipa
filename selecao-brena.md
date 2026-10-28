@@ -2,13 +2,13 @@
 
 
 
-\- \*\*Aluno:\*\* Brena Picado
+\- \*\*Aluno:\*\* Brenda Picado
 
-\- \*\*Treinador:\*\* Roberto Martínez
+\- \*\*Treinador:\*\* Roberto Martim
 
-\- \*\*Capitão:\*\* Cristiano Ronaldo
+\- \*\*Capitão:\*\* Cristiano Noraldo
 
-\- \*\*Estádio / Alcunha:\*\* Estádio Nacional / A Seleção das Quinas
+\- \*\*Estádio / Alcunha:\*\* Estádio aquele ali mano / A Seleção das Quintas
 
 
 
@@ -16,25 +16,25 @@
 
 |---:|---|---|
 
-| 1 | Guarda-redes | Diogo Costa |
+| 1 | Guarda-redes | Diogo  |
 
-| 2 | Defesa | Rúben Dias |
+| 2 | Defesa | Rúben  |
 
-| 3 | Defesa | António Silva |
+| 3 | Defesa | António  |
 
-| 4 | Defesa | Nuno Mendes |
+| 4 | Defesa | Nuno  |
 
-| 5 | Defesa | João Cancelo |
+| 5 | Defesa | João  |
 
-| 6 | Médio | Bruno Fernandes |
+| 6 | Médio | Bruno  |
 
-| 7 | Médio | Vitinha |
+| 7 | Médio | Vindicta |
 
-| 8 | Médio | Bernardo Silva |
+| 8 | Médio | Bernardo  |
 
-| 9 | Avançado | Cristiano Ronaldo |
+| 9 | Avançado | Cristiano  |
 
-| 10 | Avançado | Rafael Leão |
+| 10 | Avançado | Rafael  |
 
-| 11 | Avançado | Diogo Jota |
+| 11 | Avançado | Diogo  |
 
