@@ -1,6 +1,6 @@
 Ficha
 	Aluno: André Carvalho
-	Treinador: Jorge Jesus
+	Treinador: Roberto Martinez
 	Capitão: Franz Beckenbauer
 	Estádio / Alcunha: Estádio dos Dragão
 
