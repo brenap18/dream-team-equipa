@@ -4,11 +4,11 @@
 
 \- \*\*Aluno:\*\* Brena Picado
 
-\- \*\*Treinador:\*\* GLaDOS
+\- \*\*Treinador:\*\* Joao 
 
-\- \*\*Capitão:\*\* Chell
+\- \*\*Capitão:\*\* Joana
 
-\- \*\*Estádio / Alcunha:\*\* Aperture Science / Portal Team
+\- \*\*Estádio / Alcunha:\*\* DDM
 
 
 
@@ -16,13 +16,13 @@
 
 |---:|---|---|
 
-| 1 | Estratégia | GLaDOS |
+| 1 | Estratégia | Ruben |
 
-| 2 | Exploração | Chell |
+| 2 | Exploração | Gonçalo |
 
-| 3 | Apoio | Wheatley |
+| 3 | Apoio | André |
 
-| 4 | Defesa | Atlas |
+| 4 | Defesa | Ary |
 
-| 5 | Ataque | P-body |
+| 5 | Ataque | aquele gajo ali |
 
