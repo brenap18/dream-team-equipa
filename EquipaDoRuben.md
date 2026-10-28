@@ -1,20 +1,21 @@
 Ficha
-  . Aluno: Rúben Santos
-  . treinador: Manel 
-  . capitão: Jassinto
-  . estádio / Alcunha : aquele ali
+. Aluno: Rúben Santos foste hackeada
+. treinador: Manel H.
+. capitão: Jassinto B.
+. estádio / Alcunha : aquele aculá 
+
 
 
 Nº Posição  jogador
-1  GR         josé
-2  DC         Manuel
-3  DE	      António
-4  DD         Paulo
-5  MC         jassinto
-6  MC	      joão
-7  MC         Ricardo
-8  MC         Tiago
-9  A          Pedro
-10 A          Miguel
-11 A          Diogo
+1  GR         José M.
+2  DC         Manuel P.
+3  DE	      António C.
+4  DD         Paulo C.
+5  MC         Jassinto K.
+6  MC	      João A.
+7  MC         Ricardo G.
+8  MC         Tiago P.
+9  A          Pedro L.
+10 A          Miguel F.
+11 A          Diogo V.
 
