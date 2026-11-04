@@ -7,6 +7,9 @@
 \- \*\*Treinador:\*\* Roberto Martim
 
 \- \*\*Capitão:\*\* Mbappe
+=======
+\- \*\*Capitão:\*\* Jorge Jesus
+>>>>>>> capitao-b
 
 \- \*\*Estádio / Alcunha:\*\* Estádio aquele ali mano / A Seleção das Quintas
 
