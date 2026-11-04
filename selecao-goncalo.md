@@ -6,7 +6,7 @@
 
 \- \*\*Treinador:\*\* Gajo Pensa Muito
 
-\- \*\*Capitão:\*\* Querfeld
+\- \*\*Capitão:\*\* Neumann
 
 \- \*\*Estádio / Alcunha:\*\* Estádio da Escuridão / A Equipa
 
