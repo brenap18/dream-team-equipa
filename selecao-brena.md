@@ -22,11 +22,11 @@
 
 | 3 | Defesa | António  |
 
-| 4 | Defesa | Nuno  |
+| 4 | Defesa | Manel  |
 
 | 5 | Defesa | João  |
 
-| 6 | Médio | Bruno  |
+| 6 | Médio | zé  |
 
 | 7 | Médio | Vindicta |
 
