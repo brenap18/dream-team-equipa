@@ -2,11 +2,11 @@
 
 
 
-\- \*\*Aluno:\*\* Brenda Picado
+\- \*\*Aluno:\*\* Brenda Picado ( hmm actually o teu nome n é assim)
 
 \- \*\*Treinador:\*\* Roberto Martim
 
-\- \*\*Capitão:\*\* Cristiano Noraldo
+\- \*\*Capitão:\*\* Fernando Pessoa
 
 \- \*\*Estádio / Alcunha:\*\* Estádio aquele ali mano / A Seleção das Quintas
 
