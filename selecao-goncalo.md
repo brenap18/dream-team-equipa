@@ -22,7 +22,7 @@
 
 | 3 | Defesa | Querfeld  |
 
-| 4 | Defesa | Ba Branco  |
+| 4 | Defesa | Renato |
 
 | 5 | Defesa | Parra  |
 
@@ -30,7 +30,7 @@
 
 | 10 | Médio | Janssen |
 
-| 8 | Médio | João Neves  |
+| 8 | Médio | Sucic  |
 
 | 7 | Avançado | Salihovic  |
 
@@ -38,3 +38,4 @@
 
 | 11 | Avançado | Lamine CheiraMal  |
 
+grande gouxalu melhor treinador
