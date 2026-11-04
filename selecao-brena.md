@@ -6,7 +6,7 @@
 
 \- \*\*Treinador:\*\* Roberto Martim
 
-\- \*\*Capitão:\*\* Cristiano Noraldo
+\- \*\*Capitão:\*\* Leonel Messi
 
 \- \*\*Estádio / Alcunha:\*\* Estádio aquele ali mano / A Seleção das Quintas
 
