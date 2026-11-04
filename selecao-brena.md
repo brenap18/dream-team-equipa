@@ -6,7 +6,7 @@
 
 \- \*\*Treinador:\*\* Roberto Martim
 
-\- \*\*Capitão:\*\* Leonel Messi
+\- \*\*Capitão:\*\* Mbappe
 
 \- \*\*Estádio / Alcunha:\*\* Estádio aquele ali mano / A Seleção das Quintas
 
