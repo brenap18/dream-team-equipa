@@ -6,7 +6,7 @@
 
 \- \*\*Treinador:\*\* Gajo Pensa Muito
 
-\- \*\*Capitão:\*\* Querfeld
+\- \*\*Capitão:\*\* Neumann
 
 \- \*\*Estádio / Alcunha:\*\* Estádio da Escuridão / A Equipa
 
@@ -18,23 +18,23 @@
 
 | 1 | Guarda-redes | Neumann |
 
-| 2 | Defesa | Rothe  |
+| 2 | Defesa | Rothe |
 
-| 3 | Defesa | Querfeld  |
+| 3 | Defesa | Querfeld |
 
-| 4 | Defesa | Ba Branco  |
+| 4 | Defesa | Renato |
 
-| 5 | Defesa | Parra  |
+| 5 | Defesa | Parra |
 
-| 6 | Médio | João Simões  |
+| 6 | Médio | João Simões |
 
 | 10 | Médio | Janssen |
 
-| 8 | Médio | João Neves  |
+| 8 | Médio | Sucic |
 
-| 7 | Avançado | Salihovic  |
+| 7 | Avançado | Salihovic |
 
-| 9 | Avançado | Conrad Harder  |
+| 9 | Avançado | Conrad Harder |
 
-| 11 | Avançado | Lamine CheiraMal  |
+| 11 | Avançado | Lamine CheiraMal |
 
