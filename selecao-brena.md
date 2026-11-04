@@ -6,7 +6,7 @@
 
 \- \*\*Treinador:\*\* Roberto Martim
 
-\- \*\*Capitão:\*\* Cristiano Noraldo
+\- \*\*Capitão:\*\* Mbappe
 
 \- \*\*Estádio / Alcunha:\*\* Estádio aquele ali mano / A Seleção das Quintas
 
@@ -26,7 +26,7 @@
 
 | 5 | Defesa | João  |
 
-| 6 | Médio | Bruno  |
+| 6 | Médio | Brunice  |
 
 | 7 | Médio | Vindicta |
 
