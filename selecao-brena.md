@@ -6,8 +6,7 @@
 
 \- \*\*Treinador:\*\* Roberto Martim
 
-\- \*\*Capitão:\*\* Mbappe
-=======
+
 \- \*\*Capitão:\*\* Jorge Jesus
 >>>>>>> capitao-b
 
