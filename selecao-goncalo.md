@@ -6,7 +6,7 @@
 
 \- \*\*Treinador:\*\* Gajo Pensa Muito
 
-\- \*\*Capitão:\*\* Neumann
+\- \*\*Capitão:\*\* Neumann (filho do neuer)
 
 \- \*\*Estádio / Alcunha:\*\* Estádio da Escuridão / A Equipa
 
