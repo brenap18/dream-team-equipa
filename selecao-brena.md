@@ -26,7 +26,7 @@
 
 | 5 | Defesa | João  |
 
-| 6 | Médio | Bruno  |
+| 6 | Médio | Brunice  |
 
 | 7 | Médio | Vindicta |
 
