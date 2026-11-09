@@ -1,44 +1,20 @@
 \# Ficha de Seleção
 
+Aluno: Brena Picado
+Treinador: Roberto Martim
+Capitão: Cristiano Ronaldo
 
-
-\- \*\*Aluno:\*\* Brenda Picado
-
-\- \*\*Treinador:\*\* Roberto Martim
-
-
-\- \*\*Capitão:\*\* Jorge Jesus
->>>>>>> capitao-b
-
-\- \*\*Estádio / Alcunha:\*\* Estádio aquele ali mano / A Seleção das Quintas
-
-
-
-| Nº | Posição | Jogador |
-
-|---:|---|---|
-
-| 1 | Guarda-redes | Diogo  |
-
-| 2 | Defesa | Rúben  |
-
-| 3 | Defesa | António  |
-
-| 4 | Defesa | Nuno  |
-
-| 5 | Defesa | João  |
-
-| 6 | Médio | Brunice  |
-
-| 7 | Médio | Vindicta |
-
-| 8 | Médio | Bernardo  |
-
-| 9 | Avançado | Cristiano  |
-
-| 10 | Avançado | Rafael  |
-
-| 11 | Avançado | Diogo  |
+1 GR Diogo Costa
+2 DF Nuno Mendes
+3 DF Ruben Dias
+4 DF Pepe
+5 DF Joao Cancelo
+6 MD Bruno Fernandes
+7 MD Bernardo Silva
+8 MD Vitinha
+9 AT Cristiano Ronaldo
+10 AT Joao Felix
+11 AT Rafael Leao
 
 
 # brena, convocar o ronaldo é criminoso.

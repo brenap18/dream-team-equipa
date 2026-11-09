@@ -1,40 +1,17 @@
 \# Ficha de Seleção
 
+Aluno: Gonçalo Gonçalves
+Treinador: Gajo Pensa Muito
+Capitão: Neumann
 
-
-\- \*\*Aluno:\*\* Gonçalo Gonçalves
-
-\- \*\*Treinador:\*\* Gajo Pensa Muito
-
-\- \*\*Capitão:\*\* Neumann
-
-\- \*\*Estádio / Alcunha:\*\* Estádio da Escuridão / A Equipa
-
-
-
-| Nº | Posição | Jogador |
-
-|---:|---|---|
-
-| 1 | Guarda-redes | Neumann |
-
-| 2 | Defesa | Rothe |
-
-| 3 | Defesa | Querfeld |
-
-| 4 | Defesa | Renato |
-
-| 5 | Defesa | Parra |
-
-| 6 | Médio | João Simões |
-
-| 10 | Médio | Janssen |
-
-| 8 | Médio | Sucic |
-
-| 7 | Avançado | Salihovic |
-
-| 9 | Avançado | Conrad Harder |
-
-| 11 | Avançado | Lamine CheiraMal |
-
+1 GR Neumann
+2 DF Rothe
+3 DF Querfeld
+4 DF Renato
+5 DF Parra
+6 MD João Simões
+7 MD Janssen
+8 MD Sucic
+9 AT Salihovic
+10 AT Conrad Harder
+11 AT Lamine CheiraMal

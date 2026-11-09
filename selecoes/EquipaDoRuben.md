@@ -1,21 +1,18 @@
-Ficha
-. Aluno: Rúben Santos foste hackeada
-. treinador: Manel H.
-. capitão: Jassinto B.
-. estádio / Alcunha : aquele aculá 
+# Ficha
+Aluno: Rúben Santos foste hackeada
+Treinador: Manel H.
+Capitão: Jassinto B.
 
 
-
-Nº Posição  jogador
 1  GR         José M.
-2  DC         Manuel P.
-3  DE	      António C.
-4  DD         Paulo C.
-5  MC         Jassinto K.
-6  MC	      João A.
-7  MC         Ricardo G.
-8  MC         Tiago P.
-9  A          Pedro L.
-10 A          Miguel F.
-11 A          Diogo V.
+2  DF         Manuel P.
+3  DF	      António C.
+4  DF         Paulo C.
+5  DF         Jassinto K.
+6  MD	      João A.
+7  MD         Ricardo G.
+8  MD         Tiago P.
+9  AT          Pedro L.
+10 AT          Miguel F.
+11 AT          Diogo V.
 
