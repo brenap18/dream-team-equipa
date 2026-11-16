@@ -5,7 +5,7 @@ Treinador: Roberto Martim
 Capitão: Cristiano Ronaldo
 
 1 GR Diogo Costa
-2 DF Nuno Mendes
+2 GR Nuno Mendes
 3 DF Ruben Dias
 4 DF Pepe
 5 DF Joao Cancelo
