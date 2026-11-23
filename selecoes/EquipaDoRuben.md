@@ -6,7 +6,7 @@ Capitão: Jassinto B.
 
 1  GR         José M.
 2  DF         Manuel P.
-
+3  DF         Paulo S.
 4  DF	      António C.
 5  DF         Jassinto K.
 6  MD	      João A.

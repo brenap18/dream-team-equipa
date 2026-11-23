@@ -9,8 +9,8 @@ Ficha
 Nº Posição  jogador
 1  GR         José M.
 2  DC         Manuel P.
-3  DE	      António C.
-4  DD         Paulo C.
+3  D	      António C.
+4  DC         Paulo C.
 5  MC         Jassinto K.
 6  MC	      João A.
 7  MC         Ricardo G.
