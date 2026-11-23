@@ -8,9 +8,9 @@
 3	DF		Franz Beckenbauer
 4	DF		Paolo Maldini
 5	DF		Roberto Carlos
-6	MD		Lothar Matthäus
+6	MD		
 7	MD		Lionel Messi
 8	MD		Zinedine Zidane
 9	AT		Ronaldo Nazário
 10	AT		Diego Maradona
-11	AT		Cristiano Ronaldo
+11	AT		
