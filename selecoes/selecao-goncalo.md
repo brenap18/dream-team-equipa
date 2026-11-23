@@ -2,7 +2,7 @@
 
 Aluno: Gonçalo Gonçalves
 Treinador: Gajo Pensa Muito
-Capitão: 
+Capitão: Neumann
 
 1 GR Neumann
 2 DF Rothe
